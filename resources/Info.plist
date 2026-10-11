@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>OpenDisplay4</string>
+<key>CFBundleIdentifier</key><string>com.iliebanda.opendisplay.iphone4</string>
+<key>CFBundleName</key><string>OpenDisplay4</string>
+<key>CFBundleDisplayName</key><string>OpenDisplay 4</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleVersion</key><string>5</string>
+<key>CFBundleShortVersionString</key><string>0.4.1</string>
+<key>MinimumOSVersion</key><string>6.0</string>
+<key>UIDeviceFamily</key><array><integer>1</integer></array>
+<key>UIRequiredDeviceCapabilities</key><array><string>armv7</string><string>opengles-2</string></array>
+<key>UIApplicationExitsOnSuspend</key><true/>
+<key>UIStatusBarHidden</key><true/>
+<key>CFBundleIconFiles</key><array><string>LegacyIcon.png</string><string>LegacyIcon@2x.png</string><string>LegacyIcon-Small.png</string><string>LegacyIcon-Small@2x.png</string></array>
+<key>CFBundleIconFile</key><string>LegacyIcon.png</string>
+<key>UIPrerenderedIcon</key><true/>
+<key>UISupportedInterfaceOrientations</key><array><string>UIInterfaceOrientationPortrait</string><string>UIInterfaceOrientationPortraitUpsideDown</string><string>UIInterfaceOrientationLandscapeRight</string><string>UIInterfaceOrientationLandscapeLeft</string></array>
+<key>CFBundleURLTypes</key><array><dict><key>CFBundleURLSchemes</key><array><string>opendisplay4</string></array></dict></array>
+</dict></plist>
